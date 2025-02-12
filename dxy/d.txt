@@ -1,0 +1,5 @@
+d.txt
+dc1.jpg
+dc2.jpg
+dc3.jpg
+dc4.JPG
