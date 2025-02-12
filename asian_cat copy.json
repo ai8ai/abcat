@@ -1,0 +1,34 @@
+{"categories": {
+    "ycc": [
+        { "id": "YCCcat01", "title": "Amazing Start!", "coverIndex": 0 },
+        { "id": "YCCcat02", "title": "Explore the Beauty", "coverIndex": 1 },
+        { "id": "YCCcat03", "title": "Vibrant Colors", "coverIndex": 2 },
+        { "id": "YCCcat04", "title": "Bold & Confident", "coverIndex": 3 },
+        { "id": "YCCcat05", "title": "Artistic Vision", "coverIndex": 4 },
+        { "id": "YCCcat06", "title": "Nature's Essence", "coverIndex": 5 },
+        { "id": "YCCcat07", "title": "Graceful Elegance", "coverIndex": 6 },
+        { "id": "YCCcat08", "title": "Iconic Moments", "coverIndex": 7 }
+    ],
+    "xlz": [
+        { "id": "YCCcat01", "title": "Amazing Start!", "coverIndex": 0 },
+        { "id": "YCCcat02", "title": "Explore the Beauty", "coverIndex": 1 },
+        { "id": "YCCcat03", "title": "Vibrant Colors", "coverIndex": 2 },
+        { "id": "YCCcat04", "title": "Bold & Confident", "coverIndex": 3 },
+        { "id": "YCCcat05", "title": "Artistic Vision", "coverIndex": 4 },
+        { "id": "YCCcat06", "title": "Nature's Essence", "coverIndex": 5 },
+        { "id": "YCCcat07", "title": "Graceful Elegance", "coverIndex": 6 },
+        { "id": "YCCcat08", "title": "Iconic Moments", "coverIndex": 7 }
+    ],
+    "default": [
+        { "id": "YCCcat01", "title": "Amazing Start!", "coverIndex": 0 },
+        { "id": "YCCcat02", "title": "Explore the Beauty", "coverIndex": 1 },
+        { "id": "YCCcat03", "title": "Vibrant Colors", "coverIndex": 2 },
+        { "id": "YCCcat04", "title": "Bold & Confident", "coverIndex": 3 },
+        { "id": "YCCcat05", "title": "Artistic Vision", "coverIndex": 4 },
+        { "id": "YCCcat06", "title": "Nature's Essence", "coverIndex": 5 },
+        { "id": "YCCcat07", "title": "Graceful Elegance", "coverIndex": 6 },
+        { "id": "YCCcat08", "title": "Iconic Moments", "coverIndex": 7 }
+      ]
+    }
+}
+  
