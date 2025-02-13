@@ -1,5 +1,5 @@
 {
-    "yccCovers": [
+    "HomeCoverYCC": [
         "https://ai8ai.github.io/abcat/ycc/yc1.jpg",
         "https://ai8ai.github.io/abcat/ycc/yc2.jpg",
         "https://ai8ai.github.io/abcat/ycc/yc3.jpg",
@@ -20,8 +20,8 @@
         "https://ai8ai.github.io/abcat/ycc/yc18.jpg",
         "https://ai8ai.github.io/abcat/ycc/yc19.jpg"
     ],
-    
-    "xlzCovers": [
+
+    "HomeCoverXLZ": [
         "https://ai8ai.github.io/abcat/xlz/xc1.jpg",
         "https://ai8ai.github.io/abcat/xlz/xc2.jpg",
         "https://ai8ai.github.io/abcat/xlz/xc3.jpg",
@@ -32,5 +32,16 @@
         "https://ai8ai.github.io/abcat/xlz/xc3.jpg",
         "https://ai8ai.github.io/abcat/xlz/xc4.jpg",
         "https://ai8ai.github.io/abcat/xlz/xc5.jpg"
+    ],
+
+    "CatYCC": [
+        { "id": "YCCcat01", "title": "1Amazing Start!", "coverIndex": 0 },
+        { "id": "YCCcat02", "title": "1Explore the Beauty", "coverIndex": 1 }
+    ],
+    
+    "CatXLZ": [
+        { "id": "YCCcat01", "title": "2Amazing Start!", "coverIndex": 0 },
+        { "id": "YCCcat02", "title": "2Explore the Beauty", "coverIndex": 1 },
+        { "id": "YCCcat03", "title": "2Vibrant Colors", "coverIndex": 2 }
     ]
 }
