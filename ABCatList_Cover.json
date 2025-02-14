@@ -159,7 +159,7 @@
     "CatCoverDXY": [
         "https://ai8ai.github.io/abcat/dxy/dc1.jpg",
     "https://ai8ai.github.io/abcat/dxy/dc2.jpg",
-    "https://ai8ai.github.io/abcat/dxy/dc3.jpg",
+    "https://ai8ai.github.io/abcat/dxy/dc3.jpg"
     ],
 
     "CatCoverCCC": [
@@ -177,8 +177,6 @@
     "https://ai8ai.github.io/abcat/anran/ac4.jpg",
     "https://ai8ai.github.io/abcat/anran/ac5.jpg"
     ],
-
-
 
     "CatDefault": [
         { "id": "YCCcat01", "title": "Amazing Start!", "coverIndex": 0 },
