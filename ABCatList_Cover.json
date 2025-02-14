@@ -192,7 +192,7 @@
     ],
 
     "CatYCC": [
-        { "id": "YCCcat01", "title": "Today’s Fresh Update!", "coverIndex": 0 },
+        { "id": "YCCcat01", "title": "Fresh Update!", "coverIndex": 0 },
         { "id": "YCCcat02", "title": "Explore the Beauty", "coverIndex": 1 },
         { "id": "YCCcat03", "title": "Vibrant Colors", "coverIndex": 2 },
         { "id": "YCCcat04", "title": "Bold & Confident", "coverIndex": 3 },
