@@ -190,7 +190,7 @@
     ],
 
     "CatYCC": [
-        { "id": "YF1", "title": "Fresh & Trending", "coverIndex": 0 },
+        { "id": "YCCyf1", "title": "Fresh & Trending", "coverIndex": 0 },
         { "id": "YCCcat02", "title": "Explore the Beauty", "coverIndex": 1 },
         { "id": "YCCcat03", "title": "Vibrant Colors", "coverIndex": 2 },
         { "id": "YCCcat04", "title": "Bold & Confident", "coverIndex": 3 },
@@ -201,7 +201,7 @@
       ],
 
       "CatWXY": [
-        { "id": "WF1", "title": "Fresh & Trending", "coverIndex": 0 },
+        { "id": "WXYwf1", "title": "Fresh & Trending", "coverIndex": 0 },
         { "id": "YCCcat02", "title": "Explore the Beauty", "coverIndex": 1 },
         { "id": "YCCcat03", "title": "Vibrant Colors", "coverIndex": 2 },
         { "id": "YCCcat04", "title": "Bold & Confident", "coverIndex": 3 },
@@ -213,7 +213,7 @@
 
 
       "CatSYZ": [
-        { "id": "SF1", "title": "Fresh & Trending", "coverIndex": 0 },
+        { "id": "SYZsf1", "title": "Fresh & Trending", "coverIndex": 0 },
         { "id": "YCCcat02", "title": "Explore the Beauty", "coverIndex": 1 },
         { "id": "YCCcat03", "title": "Vibrant Colors", "coverIndex": 2 },
         { "id": "YCCcat04", "title": "Bold & Confident", "coverIndex": 3 },
@@ -226,7 +226,7 @@
 
 
       "CatXLZ": [
-        { "id": "XF1", "title": "Fresh & Trending", "coverIndex": 0 },
+        { "id": "XLZxf1", "title": "Fresh & Trending", "coverIndex": 0 },
         { "id": "YCCcat02", "title": "Explore the Beauty", "coverIndex": 1 },
         { "id": "YCCcat03", "title": "Vibrant Colors", "coverIndex": 2 },
         { "id": "YCCcat04", "title": "Bold & Confident", "coverIndex": 3 },
@@ -237,7 +237,7 @@
       ],
 
       "CatOTHERS": [
-        { "id": "OF1", "title": "Fresh & Trending", "coverIndex": 0 },
+        { "id": "OTHERSof1", "title": "Fresh & Trending", "coverIndex": 0 },
         { "id": "YCCcat02", "title": "Explore the Beauty", "coverIndex": 1 },
         { "id": "YCCcat03", "title": "Vibrant Colors", "coverIndex": 2 },
         { "id": "YCCcat04", "title": "Bold & Confident", "coverIndex": 3 },
@@ -248,7 +248,7 @@
       ],
 
       "CatKELE": [
-        { "id": "KF1", "title": "Fresh & Trending", "coverIndex": 0 },
+        { "id": "KELEkf1", "title": "Fresh & Trending", "coverIndex": 0 },
         { "id": "YCCcat02", "title": "Explore the Beauty", "coverIndex": 1 },
         { "id": "YCCcat03", "title": "Vibrant Colors", "coverIndex": 2 },
         { "id": "YCCcat04", "title": "Bold & Confident", "coverIndex": 3 },
