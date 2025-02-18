@@ -1,7 +1,0 @@
-d.txt
-lc1.jpg
-lc2.jpg
-lc3.jpg
-lc4.jpg
-lc5.jpg
-lc6.jpg
